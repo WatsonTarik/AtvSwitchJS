@@ -1,0 +1,196 @@
+body{
+    background-color: black;
+}
+.pai{
+    background-color: black;
+    width: auto;
+    height: 500px;
+}
+.titu{
+    font-size: 40px;
+    margin-top: 50px;
+    margin-left: 430px;
+    width: 600px;
+    position: relative;
+    text-align: center;
+    border: 3px yellow solid;
+    color: yellow;
+    background-color: black;
+}
+.a{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 430px;
+    width: 600px;
+    position: relative;
+    text-align: center;
+    border: 2px yellow solid;
+    color: yellow;
+    background-color: black;
+}
+.a:hover{
+    color: black;
+    background-color: yellow;
+}
+.b{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 430px;
+    width: 600px;
+    position: relative;
+    text-align: center;
+    border: 2px yellow solid;
+    color: yellow;
+    background-color: black;
+}
+.b:hover{
+    color: black;
+    background-color: yellow;
+}
+.c{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 430px;
+    width: 600px;
+    position: relative;
+    text-align: center;
+    border: 2px yellow solid;
+    color: yellow;
+    background-color: black;
+}
+.c:hover{
+    color: black;
+    background-color: yellow;
+}
+.d{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 430px;
+    width: 600px;
+    position: relative;
+    text-align: center;
+    border: 2px yellow solid;
+    color: yellow;
+    background-color: black;
+}
+.d:hover{
+    color: black;
+    background-color: yellow;
+}
+.e{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 430px;
+    width: 600px;
+    position: relative;
+    text-align: center;
+    border: 2px yellow solid;
+    color: yellow;
+    background-color: black;
+}
+.e:hover{
+    color: black;
+    background-color: yellow;
+}
+.f{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 430px;
+    width: 600px;
+    position: relative;
+    text-align: center;
+    border: 2px yellow solid;
+    color: yellow;
+    background-color: black;
+}
+.f:hover{
+    color: black;
+    background-color: yellow;
+}
+.g{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 430px;
+    width: 600px;
+    position: relative;
+    text-align: center;
+    border: 2px yellow solid;
+    color: yellow;
+    background-color: black;
+}
+.g:hover{
+    color: black;
+    background-color: yellow;
+}
+.h{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 430px;
+    width: 600px;
+    position: relative;
+    text-align: center;
+    border: 2px yellow solid;
+    color: yellow;
+    background-color: black;
+}
+.h:hover{
+    color: black;
+    background-color: yellow;
+}
+.i{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 430px;
+    width: 600px;
+    position: relative;
+    text-align: center;
+    border: 2px yellow solid;
+    color: yellow;
+    background-color: black;
+}
+.i:hover{
+    color: black;
+    background-color: yellow;
+}
+.j{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 430px;
+    width: 600px;
+    position: relative;
+    text-align: center;
+    border: 2px yellow solid;
+    color: yellow;
+    background-color: black;
+}
+.j:hover{
+    color: black;
+    background-color: yellow;
+}
+.k{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 430px;
+    width: 600px;
+    position: relative;
+    text-align: center;
+    border: 2px yellow solid;
+    color: yellow;
+    background-color: black;
+}
+.k:hover{
+    color: black;
+    background-color: yellow;
+}
+.dss{
+    display: none;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 430px;
+    width: 600px;
+    position: relative;
+    text-align: center;
+    border: 2px red solid;
+    color: white;
+    background-color: black;
+}
